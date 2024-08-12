@@ -3,7 +3,7 @@
 I'm an Italian IT student and enthusiast.
 I'm mostly interested in Web, Game and App Development, with a focus on FOSS Software.
 
-# Coding Journey
+# Skills
 
 ## 🖥️ Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -11,8 +11,8 @@ I'm mostly interested in Web, Game and App Development, with a focus on FOSS Sof
 
 
 ## 🎮 Game Development
-- Roblox Studio w/ Lua
-- Godot w/ GDScript
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+-readme-stats.vercel.app/api?username=cri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ## 📱 App Development
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
