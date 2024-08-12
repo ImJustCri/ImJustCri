@@ -5,6 +5,6 @@ I'm mostly interested in Web, Game and App Development, with a focus on FOSS Sof
 
 ## Coding Journey
 <div style="display: flex; gap: 20px;">
-  <div style="height: 25px; background-color: yellow;">JavaScript</div>
-  <div style="height: 25px; background-color: blue;">C++</div>
+  <span style="height: 25px; background-color: yellow;">JavaScript</span>
+  <span style="height: 25px; background-color: blue;">C++</span>
 </div>
