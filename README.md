@@ -20,30 +20,6 @@ I'm mostly interested in Web, Game and App Development, with a focus on FOSS Sof
 - C, C++
 
 <html>
-<div class="card">
-  <h2>Development Skills</h2>
-  <p class="skill html">
-    <span>HTML</span>
-    <span class="level">90%</span>
-  </p>
-  <p class="skill css">
-    <span>CSS</span>
-    <span class="level">95%</span>
-  </p>
-  <p class="skill javascript">
-    <span>JavaScript</span>
-    <span class="level">80%</span>
-  </p>
-  <p class="skill svg">
-    <span>SVG</span>
-    <span class="level">60%</span>
-  </p>
-  <p class="skill canvas">
-    <span>Canvas</span>
-    <span class="level">75%</span>
-  </p>
-</div>
-
 <style>
     html, body {
 	height: 100%;
@@ -72,4 +48,28 @@ I'm mostly interested in Web, Game and App Development, with a focus on FOSS Sof
 .card .skill {
 	height: 50px;
 </style>
+
+<div class="card">
+  <h2>Development Skills</h2>
+  <p class="skill html">
+    <span>HTML</span>
+    <span class="level">90%</span>
+  </p>
+  <p class="skill css">
+    <span>CSS</span>
+    <span class="level">95%</span>
+  </p>
+  <p class="skill javascript">
+    <span>JavaScript</span>
+    <span class="level">80%</span>
+  </p>
+  <p class="skill svg">
+    <span>SVG</span>
+    <span class="level">60%</span>
+  </p>
+  <p class="skill canvas">
+    <span>Canvas</span>
+    <span class="level">75%</span>
+  </p>
+</div>
 </html>
