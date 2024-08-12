@@ -5,6 +5,6 @@ I'm mostly interested in Web, Game and App Development, with a focus on FOSS Sof
 
 ## Coding Journey
 <div style="display: flex; gap: 10px;">
-  <img src="![javascript-logo-big-3767450985](https://github.com/user-attachments/assets/b5b58cd5-e2b3-48b2-a3e1-5c7b79e3d980)" style="width: 25px">
-  <img src="">
+  <img src="https://vectorified.com/images/javascript-icon-36.png" style="width: 25px">
+  <img src="https://vectorified.com/images/javascript-icon-36.png" style="width: 25px">
 </div>
