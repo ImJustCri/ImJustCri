@@ -13,7 +13,7 @@ I'm mostly interested in Web, Game and App Development, with a focus on FOSS Sof
 [![Game](https://skillicons.dev/icons?i=lua,godot)](https://skillicons.dev)
 
 ## 📱 App Development
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+[![App](https://skillicons.dev/icons?i=kotlin,java,flutter,androidstudio)](https://skillicons.dev)
 
 ## 🤖 Others
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
