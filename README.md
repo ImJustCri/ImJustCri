@@ -16,7 +16,6 @@ I'm mostly interested in Web, Game and App Development, with a focus on FOSS Sof
 [![App](https://skillicons.dev/icons?i=kotlin,java,flutter,androidstudio)](https://skillicons.dev)
 
 ## 🤖 Others
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 [![Others](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)
 
 ## 🖼️ Design
