@@ -20,7 +20,7 @@ I'm mostly interested in Web, Game and App Development, with a focus on FOSS Sof
 [![Discord](https://skillicons.dev/icons?i=python,discordjs)](https://skillicons.dev)
 
 ---
-[![Others](https://skillicons.dev/icons?i=c,cpp,md,vsc,intellij,debian,mint,git)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=c,cpp,markdown,visualstudio,intellij,debian,mint,git)](https://skillicons.dev)
 
 ## 🖼️ Design
 [![App](https://skillicons.dev/icons?i=figma,illustrator)](https://skillicons.dev)
