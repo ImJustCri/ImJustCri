@@ -16,8 +16,11 @@ I'm mostly interested in Web, Game and App Development, with a focus on FOSS Sof
 [![App](https://skillicons.dev/icons?i=kotlin,java,flutter,androidstudio)](https://skillicons.dev)
 
 ## 🤖 Others
-[![Others](https://skillicons.dev/icons?i=c,cpp,python,fl_studio)](https://skillicons.dev)
+### Discord Bots Development
+[![Discord](https://skillicons.dev/icons?i=python,discordjs)](https://skillicons.dev)
+
+### Some Experience in:
+[![Exp](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 
 ## 🖼️ Design
 [![App](https://skillicons.dev/icons?i=figma,illustrator)](https://skillicons.dev)
-
