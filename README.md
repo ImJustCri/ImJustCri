@@ -6,13 +6,11 @@ I'm mostly interested in Web, Game and App Development, with a focus on FOSS Sof
 # Skills
 
 ## 🖥️ Web Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
 [![Web](https://skillicons.dev/icons?i=js,html,css,wordpress)](https://skillicons.dev)
 
 
 ## 🎮 Game Development
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) <img src="https://i.redd.it/lvwdzzfrivf41.png" alt="GDScript" width="77"/>
+[![Game](https://skillicons.dev/icons?i=lua,godot)](https://skillicons.dev)
 
 ## 📱 App Development
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
