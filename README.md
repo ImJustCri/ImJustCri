@@ -6,7 +6,7 @@ I'm mostly interested in Web, Game and App Development, with a focus on FOSS Sof
 # Skills
 
 ## 🖥️ Web Development
-[![Web](https://skillicons.dev/icons?i=js,html,css,wordpress)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=js,html,css,wordpress,astro)](https://skillicons.dev)
 
 
 ## 🎮 Game Development
@@ -17,7 +17,7 @@ I'm mostly interested in Web, Game and App Development, with a focus on FOSS Sof
 
 ## 🤖 Experience in:
 ### Discord Bots Development
-[![Discord](https://skillicons.dev/icons?i=python,discordjs)](https://skillicons.dev)
+[![Discord](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 ### Others
 [![Others](https://skillicons.dev/icons?i=c,cpp,markdown,vscode,idea,debian,mint,git)](https://skillicons.dev)
