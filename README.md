@@ -3,8 +3,7 @@
 I'm an Italian IT student and enthusiast.
 I'm mostly interested in Web, Game and App Development, with a focus on FOSS Software.
 
-# My Website 🔗
-https://imjustcri.github.io/Portfolio/
+**My Website 🔗**: https://imjustcri.github.io/Portfolio/
 
 | **Category**                | **Skills**                                                                                      |
 |-----------------------------|-------------------------------------------------------------------------------------------------|
