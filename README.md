@@ -3,7 +3,7 @@
 I'm an Italian IT student and enthusiast.
 I'm mostly interested in Web, Game and App Development.
 
-**My Website 🔗**: https://imjustcri.netlify.app/
+**My Website 🔗**: criz.netlify.app
 
 ## Skills
 
